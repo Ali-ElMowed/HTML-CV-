@@ -88,3 +88,20 @@ hr{
     font-size: 1.5rem;
     font-weight: 700;
 }
+ td{
+    border-right: 2px solid white;
+}
+td h4,td h3{
+    border-bottom: 2px solid white;
+}
+.edu-word{
+    padding: 30px;
+    margin-left: 80px;
+    color: #EF7126;
+}
+td h3{
+    color: #6f08b3;
+}
+td h4{
+    padding-bottom: 20px;
+}
