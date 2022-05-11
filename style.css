@@ -1,0 +1,68 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+header{
+    background-color: #3a6cf4;;
+}
+.head-container{
+    margin-bottom: 100px;
+   
+}
+#myimage{
+    padding: 10px 10px;
+    margin: 10px 10px;
+    float: left;
+    width: 12%;
+}
+
+.myname{
+    padding: 10px 10px;
+    margin: 10px 770px 10px 10px;
+    float: left;
+    line-height: 0.5rem;
+    font-size: 1.5rem;
+}
+
+.myContacts{
+    
+  
+    padding-top: 20px;
+    margin: 10px 5px 10px 10px;
+    float: none;
+    line-height: 0.5rem;
+    font-size: 1rem;
+}
+
+#seweb{
+    text-decoration: none;
+}
+.about{
+    float: none;
+    
+}
+hr{
+    padding: 3px 0px;
+    margin: 10px 0px;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+/*
+.about{
+   
+}
+.about h2{
+    
+    padding: 10px 10px;
+    margin: 30px;
+
+    font-size: 1.5rem;
+   
+}
+.description{
+    float: left;
+    margin-top: 30 px;
+    padding: 10px 10px;
+}*/
