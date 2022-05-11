@@ -105,3 +105,28 @@ td h3{
 td h4{
     padding-bottom: 20px;
 }
+.contact-directly{
+    text-align: center;
+}
+.contact-directly h2{
+    padding: 10px 10px;
+    margin: 30px 30px 10px 10px;
+    font-size: 1.5rem;
+    color: #EF7126;
+}
+.contact-directly label{
+    padding: 10px 10px;
+    margin: 30px 30px 10px 10px;
+    font-weight: 700;
+    color: #6f08b3;
+}
+.name-label{
+    padding-left: 33px;
+}
+.contact-directly input, .contact-directly textarea{
+    border-radius: 5px;
+    border: 1px solid white;
+}
+#button{
+    margin-left: 40px;
+}
