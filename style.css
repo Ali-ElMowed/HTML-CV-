@@ -62,7 +62,29 @@ hr{
 }
 .description{
     float: right;
-    padding: 0px 140px 10px 0px;
+    padding: 0px 100px 10px 0px;
     font-size: large;
     color:#473E3F ;
+    font-weight: 700;
+}
+.hobbies{
+    margin-bottom: 200px;
+}
+.hobbies-word{
+    padding: 10px 10px;
+    margin: 30px 30px 10px 10px;
+    font-size: 1.5rem;
+    color: #EF7126;
+}
+.hobbies-container{
+    float: right;
+    padding: 0px 140px 10px 0px;
+    margin-right: 900px;
+
+}
+.hobbies-item{
+    padding: 10px 10px;
+    line-height: 1.5rem;
+    font-size: 1.5rem;
+    font-weight: 700;
 }
