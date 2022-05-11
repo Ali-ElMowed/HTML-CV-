@@ -2,9 +2,11 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    background-color: #8EDC9D;
+    color:#473E3F;
 }
 header{
-    background-color: #3a6cf4;;
+    
 }
 .head-container{
     margin-bottom: 100px;
@@ -38,10 +40,7 @@ header{
 #seweb{
     text-decoration: none;
 }
-.about{
-    float: none;
-    
-}
+
 hr{
     padding: 3px 0px;
     margin: 10px 0px;
@@ -49,20 +48,25 @@ hr{
     height: 1px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
-/*
+
 .about{
-   
+    margin-bottom: 100px;
 }
 .about h2{
     
     padding: 10px 10px;
-    margin: 30px;
-
+    margin: 30px 30px 10px 10px;
     font-size: 1.5rem;
+    color: #EF7126;
    
 }
 .description{
-    float: left;
-    margin-top: 30 px;
-    padding: 10px 10px;
-}*/
+    float: right;
+    padding: 0px 140px 10px 0px;
+    font-size: large;
+    color:#473E3F ;
+}
+.abouthr{
+    
+    margin-top: 120px
+}
