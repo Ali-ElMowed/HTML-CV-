@@ -130,3 +130,8 @@ td h4{
 #button{
     margin-left: 40px;
 }
+.social-icons a{
+    color: #fff;
+    font-size: 1.7em;
+    padding-right: 30px;
+}
